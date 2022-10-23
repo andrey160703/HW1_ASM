@@ -108,7 +108,7 @@ Length is incorrect = 250
 
 Вывод программы на GAS:
 
-![test3_ass](tests/test3_ass.png)
+![test3_ass](images/test3_ass.png)
 ---
 
 4) Ввод:
